@@ -1,0 +1,10 @@
+[Core]
+Name = WebserverConfiguration
+Module = webserverconfig
+DependsOn = Webserver
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Example "webhook" plugin
